@@ -1,0 +1,4 @@
+เป็นไปได้ 3 แบบ
+csum:0 - msum:6 = -6		parent นำ csum มาใช้ตอนที่ thread ยังไม่เริ่มทำงาน
+csum:21 - msum:6 = 15		parent นำ csum มาใช้ตอนที่ thread ทำงานจบแล้ว
+csum:10 - msum:6 = 4		parent นำ csum มาใช้ตอนที่ thread กำลังทำงาน
